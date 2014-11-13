@@ -1,0 +1,6 @@
+c:\users\agarwala\documents\visual studio 2012\Projects\CodingChallenge\CodingChallenge\bin\Debug\CodingChallenge.exe.config
+c:\users\agarwala\documents\visual studio 2012\Projects\CodingChallenge\CodingChallenge\bin\Debug\CodingChallenge.exe
+c:\users\agarwala\documents\visual studio 2012\Projects\CodingChallenge\CodingChallenge\bin\Debug\CodingChallenge.pdb
+c:\users\agarwala\documents\visual studio 2012\Projects\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.exe
+c:\users\agarwala\documents\visual studio 2012\Projects\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.pdb
+c:\users\agarwala\documents\visual studio 2012\Projects\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.csprojResolveAssemblyReference.cache
