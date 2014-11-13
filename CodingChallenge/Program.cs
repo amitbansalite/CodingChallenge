@@ -50,13 +50,15 @@ namespace CodingChallenge
                 }
             }
 
+            Console.WriteLine("\n The input file has been analysed and here is the output for the different url's. \n");
+
             foreach (var result in responses)
             {
                 Console.WriteLine(result.ToString());
                 Console.WriteLine();
             }
 
-            Console.WriteLine("Press Enter to exit.");
+            Console.WriteLine("\n Press Enter to exit.");
             Console.ReadLine();
         }
     }
